@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## **Welcome learning journal**
 
-You can use the [editor on GitHub](https://github.com/raghadanees/Learning_journal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**growth mindset**
+ 
+*In growth mindset my abilities can improve by practice and do alot of effort and to love to get knowledge*  
 
-```markdown
-Syntax highlighted code block
+- iyugf
+- vhjfh
 
-# Header 1
-## Header 2
-### Header 3
+[my-github](https://github.com/raghadanees)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raghadanees/Learning_journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image]
+(https://static.wixstatic.com/media/a27d24_7803feda8ff14c53b93d4b5489e285ab~mv2.png/v1/fill/w_1000,h_563,al_c,usm_0.66_1.00_0.01/a27d24_7803feda8ff14c53b93d4b5489e285ab~mv2.png)
