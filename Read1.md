@@ -1,4 +1,4 @@
-# welcome again to Learning journal :smiley:
+# welcome again to Learning journal 
 ## GitHub
 Website for you and your projects Just edit, push, and your changes are live
 
