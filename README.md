@@ -1,15 +1,26 @@
-## **Welcome learning journal**
+# **Welcome to learning journal**
+
+### I am Raghad Anees, pharmasist 
+### programing is something new, interesting and very helpful and can improve our opportunities to get better job in the future.
+
+
+<!-- toc -->
+- 
+- [Markdown](#Markdown)
+- [Growth mindset](#growthmindset)
+- [Remote Repositories](#RemoteRepositories)
+- [Text editor](#Texteditor)
+
+<!-- tocstop -->
+
+[Markdown](https://raghadanees.github.io/Learning_journal/Read1)
+
+[Growth mindset](https://raghadanees.github.io/Learning_journal/ass1b)
+
+[Remote Repositories](https://raghadanees.github.io/Learning_journal/READ3)
+
+[Text editor](https://raghadanees.github.io/Learning_journal/README2)
 
 
 
-
-**growth mindset**
- 
-*In growth mindset my abilities can improve by practice and do alot of effort and to love to get knowledge*  
-
-- iyugf
-- vhjfh
-
-[my-github](https://github.com/raghadanees)
-
-![Image](https://static.wixstatic.com/media/a27d24_7803feda8ff14c53b93d4b5489e285ab~mv2.png/v1/fill/w_1000,h_563,al_c,usm_0.66_1.00_0.01/a27d24_7803feda8ff14c53b93d4b5489e285ab~mv2.png)
+![Image](https://elearningindustry.com/wp-content/uploads/2019/10/how-design-thinking-transforming-learning-experience-free-ebook.jpg)
