@@ -1,5 +1,5 @@
-## JavaScript can be used
-in browsers to make websites more interactive,interesting, and user-friendly. You will also learn about jQuery because it makes writing JavaScript a lot easier
+## JavaScript 
+can be used in browsers to make websites more interactive,interesting, and user-friendly. You will also learn about jQuery because it makes writing JavaScript a lot easier
 so you can
 - Access the content of the page
 - MODIFY CONTENT
